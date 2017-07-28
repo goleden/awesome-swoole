@@ -30,7 +30,8 @@
 * [PHP7内核剖析](https://github.com/pangudashu/php7-internal)
 * [深入理解PHP内核](http://www.php-internals.com/)
 * [PHP-Internals-Book](https://github.com/phpinternalsbook/PHP-Internals-Book)
-* [nikic博客](http://nikic.github.io/)
+* [nikic的博客](http://nikic.github.io/) - PHP内核开发者，PHP-Parser作者
+* [鸟哥的博客](http://www.laruence.com/)
 
 ## 网络编程 
 
@@ -43,10 +44,12 @@
 
 ## Swoole 
 
+* [mysql_proxy@GXhua](https://github.com/swoole/mysql-proxy) - mysql中间件
 * [multiprocess@kcloze](https://github.com/kcloze/multiprocess) - PHP multiprocess manager for cli, 可轻松让普通PHP脚本变守护进程和多进程执行
 
 ## php扩展 
 
+* [PHP_X@matyhtf](https://github.com/swoole/PHP-X) - C++ wrapper for Zend API
 * [donkeyid@osgochina](https://github.com/osgochina/donkeyid) - 64位自增id生成器
 
 # 其他列表
@@ -55,4 +58,4 @@
 
 # 贡献本项目 
 
-如果你有以上未收录的关于Swoole的资源，欢迎提交PR
+如果你有以上未收录的关于Swoole或者php扩展的资源，欢迎提交PR
