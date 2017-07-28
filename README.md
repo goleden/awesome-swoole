@@ -28,6 +28,9 @@
 ## php内核 
 
 * [PHP7内核剖析](https://github.com/pangudashu/php7-internal)
+* [深入理解PHP内核](http://www.php-internals.com/)
+* [PHP-Internals-Book](https://github.com/phpinternalsbook/PHP-Internals-Book)
+* [nikic博客](http://nikic.github.io/)
 
 ## 网络编程 
 
