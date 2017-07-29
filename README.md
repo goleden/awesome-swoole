@@ -45,6 +45,8 @@
 ## Swoole 
 
 * [mysql_proxy@GXhua](https://github.com/swoole/mysql-proxy) - mysql中间件
+* [SwooleDistributed@tmtbe](https://github.com/tmtbe/SwooleDistributed) - swoole 分布式全栈框架
+* [CatSystem](https://github.com/CatsSystem) - 基于Swoole的高性能开发套件
 * [multiprocess@kcloze](https://github.com/kcloze/multiprocess) - PHP multiprocess manager for cli, 可轻松让普通PHP脚本变守护进程和多进程执行
 
 ## php扩展 
