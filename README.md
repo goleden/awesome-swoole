@@ -26,7 +26,9 @@
 
 ## php扩展 
 
-* [PHP扩展开发与内核应用](http://www.cunmou.com/phpbook/index.md)
+* (书)[PHP扩展开发与内核应用](http://www.cunmou.com/phpbook/index.md)
+* (文档)[PHP核心：骇客指南](http://php.net/manual/zh/internals2.php) - PHP官方文档
+* (slide)[PHP Extensions - What and Why](https://derickrethans.nl/talks/phpexts-zendcon11.pdf) - Derick Rethans(xdebug的作者)在ZendCon的分享
 
 ## php内核 
 
