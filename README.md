@@ -22,6 +22,7 @@
 * [Swoole源码](https://github.com/swoole/swoole-src)
 * [Swoole文档](https://wiki.swoole.com/)
 * [Swoole问答](http://group.swoole.com/)
+* [Swoole更新记录](https://wiki.swoole.com/wiki/page/p-project/change_log.html)
 
 ## php扩展 
 
@@ -40,7 +41,10 @@
 * [libevent源码](https://github.com/libevent/libevent)
 * [libev源码](https://github.com/enki/libev)
 * [libuv源码](https://github.com/libuv/libuv)
-* [Linux高性能服务器编程](https://book.douban.com/subject/24722611/)
+* (书)[TCP/IP网络编程](https://book.douban.com/subject/25911735/) - 通俗易懂，适合入门
+* (书)[UNIX网络编程 卷1：套接字联网API](https://book.douban.com/subject/4859464/)
+* (书)[Linux高性能服务器编程](https://book.douban.com/subject/24722611/)
+* (书)[UNIX网络编程 卷2：进程间通信](https://book.douban.com/subject/26434599/)
 
 # 项目
 
@@ -50,6 +54,8 @@
 * [SwooleDistributed@tmtbe](https://github.com/tmtbe/SwooleDistributed) - swoole 分布式全栈框架
 * [CatSystem](https://github.com/CatsSystem) - 基于Swoole的高性能开发套件
 * [multiprocess@kcloze](https://github.com/kcloze/multiprocess) - PHP multiprocess manager for cli, 可轻松让普通PHP脚本变守护进程和多进程执行
+* [keeper@chongyi](https://github.com/chongyi/keeper) - 基于 Swoole 的后台多进程程序脚手架，提供了基本的进程控制功能
+* [statistics@smalleyes](https://github.com/smalleyes/statistics) - 一个运用php与swoole实现的统计监控系统
 
 ## php扩展 
 
