@@ -42,6 +42,7 @@
 
 * [libevent源码](https://github.com/libevent/libevent)
 * [libev源码](https://github.com/enki/libev)
+* [libeio源码](https://github.com/scunningham/libeio)
 * [libuv源码](https://github.com/libuv/libuv)
 * (书)[TCP/IP网络编程](https://book.douban.com/subject/25911735/) - 通俗易懂，适合入门
 * (书)[UNIX网络编程 卷1：套接字联网API](https://book.douban.com/subject/4859464/)
