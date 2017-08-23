@@ -64,6 +64,7 @@
 * [FastD@JanHuang](https://github.com/JanHuang/fastd) - 基于Swoole的微型API框架
 * [easyswoole@kiss291323003](https://github.com/kiss291323003/easyswoole) - easySwoole专为API而生，是一款常驻内存化的PHP开发框架
 * [zhttp@keaixiaou](https://github.com/keaixiaou/zhttp) - 基于swoole的异步轻量级web框架
+* [LaravelFly@scil](https://github.com/scil/LaravelFly) - 用swoole http server运行Laravel的项目
 
 ## php扩展 
 
