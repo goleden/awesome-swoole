@@ -61,6 +61,7 @@
 * [keeper@chongyi](https://github.com/chongyi/keeper) - 基于 Swoole 的后台多进程程序脚手架，提供了基本的进程控制功能
 * [statistics@smalleyes](https://github.com/smalleyes/statistics) - 一个运用php与swoole实现的统计监控系统
 * [Sworm@heikezy](https://github.com/heikezy/Sworm) - 基于Swoole的异步MySQL数据库ORM框架
+* [FastD@JanHuang](https://github.com/JanHuang/fastd) - 基于Swoole的微型API框架
 
 ## php扩展 
 
