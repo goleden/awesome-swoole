@@ -61,7 +61,7 @@
 * [keeper@chongyi](https://github.com/chongyi/keeper) - 基于 Swoole 的后台多进程程序脚手架，提供了基本的进程控制功能
 * [statistics@smalleyes](https://github.com/smalleyes/statistics) - 一个运用php与swoole实现的统计监控系统
 * [Sworm@heikezy](https://github.com/heikezy/Sworm) - 基于Swoole的异步MySQL数据库ORM框架
-* [FastD@JanHuang](https://github.com/JanHuang/fastd) - 基于Swoole的微型API框架(������ A high performance PHP API framework. https://fastdlabs.com)
+* [FastD@JanHuang](https://github.com/JanHuang/fastd) - 基于Swoole的微型API框架(A high performance PHP API framework. [https://fastdlabs.com](https://fastdlabs.com))
 * [easyswoole@kiss291323003](https://github.com/kiss291323003/easyswoole) - easySwoole专为API而生，是一款常驻内存化的PHP开发框架
 * [zhttp@keaixiaou](https://github.com/keaixiaou/zhttp) - 基于swoole的异步轻量级web框架
 * [LaravelFly@scil](https://github.com/scil/LaravelFly) - 用swoole http server运行Laravel的项目
