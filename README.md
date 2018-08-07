@@ -1,6 +1,8 @@
 # Awesome Swoole [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-本项目主要是和Swoole相关的资源列表，同时也包含PHP扩展开发和网络编程相关的的资源。Swoole是使用C语言编写的PHP扩展，实现了异步、并行、高性能网络通信。
+本项目主要是和Swoole相关的资源列表，同时也包含PHP扩展开发, PHP框架和网络编程相关的的资源。
+
+Swoole是使用C语言编写的PHP扩展，实现了异步、并行、高性能的网络通信，网上有很多基于Swoole开发的项目。
 
 - [资源](#资源)
   - [Swoole](#Swoole)
@@ -67,6 +69,10 @@
 - [zhttp](https://github.com/keaixiaou/zhttp) - (@keaixiaou) 基于 Swoole 的异步轻量级web框架
 - [LaravelFly](https://github.com/scil/LaravelFly) - (@scil) 用swoole http server运行Laravel的项目
 - [LaravelS](https://github.com/hhxsv5/laravel-s) - (@hhxsv5) 通过Swoole来加速 Laravel/Lumen，其中的S代表Swoole，速度，高性能
+
+### php网络框架
+
+- [Workerman](https://github.com/walkor/Workerman) - (@walkor) 基于事件驱动的php网络通信框架
 
 ### php扩展相关
 
