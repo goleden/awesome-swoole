@@ -4,18 +4,45 @@
 
 Swoole是使用C语言编写的PHP扩展，实现了异步、并行、高性能的网络通信，网上有很多基于Swoole开发的项目。
 
+- [项目](#项目)
+  - [Swoole项目](#Swoole项目)
+  - [php扩展项目](#php扩展项目)
 - [资源](#资源)
   - [Swoole](#Swoole)
   - [php扩展](#php扩展)
   - [php内核](#php内核)
   - [网络编程](#网络编程)
-- [项目](#项目)
-  - [Swoole项目](#Swoole项目)
-  - [php扩展项目](#php扩展项目)
 - [其他列表](#其他列表)
 - [贡献](#贡献)
 
 - - -
+
+## 项目
+
+### Swoole相关项目
+
+- [Tars-PHP](https://github.com/Tencent/Tars/tree/phptars) -(@Tencent) PHP版的TARS微服务部署运维解决方案
+- [mysql_proxy](https://github.com/swoole/mysql-proxy) - (@GXhua) mysql 中间件
+- [Swoft](https://github.com/swoft-cloud/swoft) - (@swoft-cloud) 基于Swoole原生协程，新时代PHP高性能协程框架
+- [easyswoole](https://github.com/kiss291323003/easyswoole) - (@kiss291323003) easySwoole 专为API而生，是一款常驻内存化的PHP开发框架
+- [SwooleDistributed](https://github.com/tmtbe/SwooleDistributed) - (@tmtbe) swoole 分布式全栈框架
+- [CatSystem](https://github.com/CatsSystem) - (@CatsSystem) 基于 Swoole 的高性能开发套件
+- [Blink](https://github.com/bixuehujin/blink) - (@bixuehujin) Web 微型高性能框架
+- [multiprocess](https://github.com/kcloze/multiprocess) - (@kcloze) PHP multiprocess manager for cli, 可轻松让普通PHP脚本变守护进程和多进程执行
+- [keeper](https://github.com/chongyi/keeper) - (@chongyi) 基于 Swoole 的后台多进程程序脚手架，提供了基本的进程控制功能
+- [statistics](https://github.com/smalleyes/statistics) - (@smalleyes) 一个运用 php 与 swoole 实现的统计监控系统
+- [Sworm](https://github.com/heikezy/Sworm) - (@heikezy) 基于 Swoole 的异步 MySQL 数据库 ORM 框架
+- [FastD](https://github.com/JanHuang/fastd) - (@JanHuang) 基于Swoole的微型API框架(A high performance PHP API framework. [https://fastdlabs.com](https://fastdlabs.com))
+- [zhttp](https://github.com/keaixiaou/zhttp) - (@keaixiaou) 基于 Swoole 的异步轻量级web框架
+- [LaravelFly](https://github.com/scil/LaravelFly) - (@scil) 用swoole http server运行Laravel的项目
+- [LaravelS](https://github.com/hhxsv5/laravel-s) - (@hhxsv5) 通过Swoole来加速 Laravel/Lumen，其中的S代表Swoole，速度，高性能
+- [IMI](https://github.com/Yurunsoft/IMI) - (@Yurunsoft) 基于 Swoole 开发的协程 PHP 开发框架
+
+### php扩展项目
+
+- [PHP_X](https://github.com/swoole/PHP-X) - (@matyhtf) C++ wrapper for Zend API
+- [donkeyid](https://github.com/osgochina/donkeyid) - (@osgochina) 64位自增id生成器
+- [Pimple](https://github.com/silexphp/Pimple) - (@silexphp) 依赖注入容器的php扩展实现版
 
 ## 资源
 
@@ -50,35 +77,6 @@ Swoole是使用C语言编写的PHP扩展，实现了异步、并行、高性能�
 - (书)[UNIX网络编程 卷1：套接字联网API](https://book.douban.com/subject/4859464/)
 - (书)[Linux高性能服务器编程](https://book.douban.com/subject/24722611/)
 - (书)[UNIX网络编程 卷2：进程间通信](https://book.douban.com/subject/26434599/)
-
-## 项目
-
-### Swoole相关
-
-- [mysql_proxy](https://github.com/swoole/mysql-proxy) - (@GXhua) mysql 中间件
-- [Swoft](https://github.com/swoft-cloud/swoft) - (@swoft-cloud) 基于Swoole原生协程，新时代PHP高性能协程框架
-- [SwooleDistributed](https://github.com/tmtbe/SwooleDistributed) - (@tmtbe) swoole 分布式全栈框架
-- [CatSystem](https://github.com/CatsSystem) - (@CatsSystem) 基于 Swoole 的高性能开发套件
-- [Blink](https://github.com/bixuehujin/blink) - (@bixuehujin) Web 微型高性能框架
-- [multiprocess](https://github.com/kcloze/multiprocess) - (@kcloze) PHP multiprocess manager for cli, 可轻松让普通PHP脚本变守护进程和多进程执行
-- [keeper](https://github.com/chongyi/keeper) - (@chongyi) 基于 Swoole 的后台多进程程序脚手架，提供了基本的进程控制功能
-- [statistics](https://github.com/smalleyes/statistics) - (@smalleyes) 一个运用 php 与 swoole 实现的统计监控系统
-- [Sworm](https://github.com/heikezy/Sworm) - (@heikezy) 基于 Swoole 的异步 MySQL 数据库 ORM 框架
-- [FastD](https://github.com/JanHuang/fastd) - (@JanHuang) 基于Swoole的微型API框架(A high performance PHP API framework. [https://fastdlabs.com](https://fastdlabs.com))
-- [easyswoole](https://github.com/kiss291323003/easyswoole) - (@kiss291323003) easySwoole 专为API而生，是一款常驻内存化的PHP开发框架
-- [zhttp](https://github.com/keaixiaou/zhttp) - (@keaixiaou) 基于 Swoole 的异步轻量级web框架
-- [LaravelFly](https://github.com/scil/LaravelFly) - (@scil) 用swoole http server运行Laravel的项目
-- [LaravelS](https://github.com/hhxsv5/laravel-s) - (@hhxsv5) 通过Swoole来加速 Laravel/Lumen，其中的S代表Swoole，速度，高性能
-
-### php网络框架
-
-- [Workerman](https://github.com/walkor/Workerman) - (@walkor) 基于事件驱动的php网络通信框架
-
-### php扩展相关
-
-- [PHP_X](https://github.com/swoole/PHP-X) - (@matyhtf) C++ wrapper for Zend API
-- [donkeyid](https://github.com/osgochina/donkeyid) - (@osgochina) 64位自增id生成器
-- [Pimple](https://github.com/silexphp/Pimple) - (@silexphp) 依赖注入容器的php扩展实现版
 
 ## 其他列表
 
