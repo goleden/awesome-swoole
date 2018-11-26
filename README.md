@@ -50,7 +50,8 @@ Swoole是使用C语言编写的PHP扩展，实现了异步、并行、高性能�
 ### Swoole
 
 - [Swoole源码](https://github.com/swoole/swoole-src)
-- [Swoole文档](https://wiki.swoole.com/)
+- [Swoole官方文档](https://wiki.swoole.com/)
+- [Swoole文档](https://linkeddestiny.gitbooks.io/easy-swoole/content/)
 - [Swoole问答](http://group.swoole.com/)
 - [Swoole更新记录](https://wiki.swoole.com/wiki/page/p-project/change_log.html)
 
