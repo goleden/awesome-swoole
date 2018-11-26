@@ -6,6 +6,7 @@ Swoole是使用C语言编写的PHP扩展，实现了异步、并行、高性能�
 
 - [项目](#项目)
   - [Swoole框架](#Swoole框架)
+  - [Swoole应用](#Swoole应用)
   - [php扩展项目](#php扩展项目)
 - [资源](#资源)
   - [Swoole](#Swoole)
@@ -41,7 +42,9 @@ Swoole是使用C语言编写的PHP扩展，实现了异步、并行、高性能�
 - [IMI](https://github.com/Yurunsoft/IMI) - (@Yurunsoft) 基于 Swoole 开发的协程 PHP 开发框架
 
 
-### Swoole相关项目
+### Swoole应用
+- [matyhtf/webim](https://github.com/matyhtf/webim) - 使用PHP+Swoole实现的网页即时聊天工具
+
 
 
 ### php扩展项目
