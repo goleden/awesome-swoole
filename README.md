@@ -21,6 +21,7 @@ Swoole是使用C语言编写的PHP扩展，实现了异步、并行、高性能�
 
 ### Swoole相关项目
 
+- [mixstart/mixphp](https://github.com/mixstart/mixphp) - 基于 Swoole 的FPM、常驻内存、协程三模 PHP 高性能框架
 - [Tars-PHP](https://github.com/Tencent/Tars/tree/phptars) -(@Tencent) PHP版的TARS微服务部署运维解决方案
 - [mysql_proxy](https://github.com/swoole/mysql-proxy) - (@GXhua) mysql 中间件
 - [Swoft](https://github.com/swoft-cloud/swoft) - (@swoft-cloud) 基于Swoole原生协程，新时代PHP高性能协程框架
