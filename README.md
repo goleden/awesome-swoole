@@ -19,7 +19,7 @@ Swoole是使用C语言编写的PHP扩展，实现了异步、并行、高性能�
 
 ## 项目
 
-### Swoole相关项目
+### Swoole框架
 
 - [mixstart/mixphp](https://github.com/mixstart/mixphp) - 基于 Swoole 的FPM、常驻内存、协程三模 PHP 高性能框架
 - [Tars-PHP](https://github.com/Tencent/Tars/tree/phptars) -(@Tencent) PHP版的TARS微服务部署运维解决方案
@@ -35,9 +35,14 @@ Swoole是使用C语言编写的PHP扩展，实现了异步、并行、高性能�
 - [Sworm](https://github.com/heikezy/Sworm) - (@heikezy) 基于 Swoole 的异步 MySQL 数据库 ORM 框架
 - [FastD](https://github.com/JanHuang/fastd) - (@JanHuang) 基于Swoole的微型API框架(A high performance PHP API framework. [https://fastdlabs.com](https://fastdlabs.com))
 - [zhttp](https://github.com/keaixiaou/zhttp) - (@keaixiaou) 基于 Swoole 的异步轻量级web框架
+- [swooletw/laravel-swoole](https://github.com/swooletw/laravel-swoole) - 基于swoole的高性能http服务器。加快Laravel或Lumn应用程序。
 - [LaravelFly](https://github.com/scil/LaravelFly) - (@scil) 用swoole http server运行Laravel的项目
 - [LaravelS](https://github.com/hhxsv5/laravel-s) - (@hhxsv5) 通过Swoole来加速 Laravel/Lumen，其中的S代表Swoole，速度，高性能
 - [IMI](https://github.com/Yurunsoft/IMI) - (@Yurunsoft) 基于 Swoole 开发的协程 PHP 开发框架
+
+
+### Swoole相关项目
+
 
 ### php扩展项目
 
